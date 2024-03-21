@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://telegra.ph/file/ef25c527dba62a5917022.jpg" alt="The-HellBot">
+  <img src="https://telegra.ph/file/ef25c527dba62a5917022.jpg" alt="SAIFDEAD">
 </p>
 
 <h6 align="center">
@@ -18,7 +18,7 @@
 
 
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/SAIFDEAD/USERBOTZ"> <img src="https://img.shields.io/badge/Deploy%20On%20⚡ 𝐒αιғβσтƨ ⚡-red?style=for-the-badge&logo=heroku" width="300" height="40.0"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/SAIFDEAD/USERBOTZ"> <img src="https://img.shields.io/badge/Deploy%20On%heroku-red?style=for-the-badge&logo=heroku" width="300" height="40.0"/></a></p>
 
 
 
