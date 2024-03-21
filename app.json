@@ -51,8 +51,7 @@
       "value": ""
     }
   },
-  "addons": [{
-    "buildpacks": [
+   "buildpacks": [
         {
             "url": "https://github.com/HellBoy-OP/heroku-buildpack-ffmpeg-latest"
         },
