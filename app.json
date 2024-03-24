@@ -18,7 +18,7 @@
       "value": "ANYTHING"
     },
     "ABUSE": {
-      "description": "Leave it blank if you dont want Profanity in HellBot. Else Fill ON.",
+      "description": "Leave it blank if you dont want Profanity in . Else Fill ON.",
       "value": "ON",
       "required": false
     },
@@ -36,7 +36,7 @@
     },
     "HELLBOT_SESSION": {
       "description": "Get this value by using repl or termux. Refer to Repo for more info.",
-      "value": ""
+      "value": "dm kar lo jo tum laya hai ye nahi lgega"
     },
     "HEROKU_API_KEY": {
       "description": "Go to https://dashboard.heroku.com/account, scroll down and press Reveal API. Required for updater to work.",
